@@ -1,0 +1,9 @@
+{
+  "name": "jd-red-flag-detector",
+  "version": "1.0.0",
+  "description": "AI-powered job description analyzer built by Samuel Owusu",
+  "main": "api/analyze.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
